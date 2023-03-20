@@ -6,7 +6,7 @@ const draw = ctx => {
   const font = 8;
   const background = 'rgba(30, 30, 30, .1)';
   const color = colors.theme2;
-  const spread = 0.98;
+  const spread = 0.97;
 
   ctx.font = `${font}px Roboto`;
 

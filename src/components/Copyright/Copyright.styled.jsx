@@ -10,4 +10,5 @@ export const CopyrightStyled = styled.div`
   font-weight: 100;
   padding-top: 40px;
   color: #c8bfff51;
+  margin-bottom: 100px;
 `;
